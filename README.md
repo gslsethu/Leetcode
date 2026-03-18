@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gslsethu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gslsethu/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gslsethu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gslsethu/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gslsethu/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
