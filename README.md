@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gslsethu/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
