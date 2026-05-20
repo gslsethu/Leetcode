@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gslsethu/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gslsethu/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gslsethu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gslsethu/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gslsethu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gslsethu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/gslsethu/Leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
