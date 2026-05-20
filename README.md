@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gslsethu/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gslsethu/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
