@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
