@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gslsethu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/gslsethu/Leetcode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/gslsethu/Leetcode/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/gslsethu/Leetcode/tree/master/2235-add-two-integers) |
 ## Database
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/gslsethu/Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gslsethu/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
