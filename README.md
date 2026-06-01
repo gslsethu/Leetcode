@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/gslsethu/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gslsethu/Leetcode/tree/master/0283-move-zeroes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gslsethu/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +186,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
