@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gslsethu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/gslsethu/Leetcode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/gslsethu/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/gslsethu/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gslsethu/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gslsethu/Leetcode/tree/master/0509-fibonacci-number) |
