@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/gslsethu/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/gslsethu/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gslsethu/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gslsethu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gslsethu/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gslsethu/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/gslsethu/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/gslsethu/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
