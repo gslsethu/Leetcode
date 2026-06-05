@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gslsethu/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/gslsethu/Leetcode/tree/master/0260-single-number-iii) |
@@ -202,10 +203,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
