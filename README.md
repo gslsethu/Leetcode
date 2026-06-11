@@ -166,15 +166,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1192-critical-connections-in-a-network](https://github.com/gslsethu/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Simulation
 |  |
 | ------- |
