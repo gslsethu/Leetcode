@@ -4,9 +4,8 @@ class Solution(object):
         right=len(height)-1
         max_area=0
         while left<right:
-            width=right-left
-            area=min(height[left],height[right])*width
-            max_area=max(max_area,area)
+           
+            max_area=max(max_area,(right-left)*min(height[left],height[right]))
             if height[left]<height[right]:
                 left+=1
             else:
