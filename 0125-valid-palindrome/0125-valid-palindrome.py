@@ -1,13 +1,16 @@
 class Solution(object):
     def isPalindrome(self, s):
         s=s.lower()
-        st=""
-        for i in range(len(s)):
-            if ('a'<=s[i]<='z') or ('0'<=s[i]<='9'):
-                st+=s[i]
-        temp=st[::-1]
-    
-        if temp==st:
-            return True
-        else:
-            return False
+        left=0
+        right=len(s)-1
+        while left<right:
+            if not s[left].isalnum():
+                left+=1
+            elif not s[right].isalnum():
+                right-=1
+            elif s[right]!=s[left]:
+                return False
+            else:
+                left+=1
+                right-=1
+        return True
