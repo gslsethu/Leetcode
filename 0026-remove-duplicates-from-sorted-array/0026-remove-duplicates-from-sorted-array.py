@@ -1,12 +1,20 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        s=list(set(nums))
-        s.sort()
-        for i in range(len(s)):
-            nums[i]=s[i]
-            
-        return len(s)
-             
+        if len(nums)==0:
+            return 0
+        slow=0
+        for fast in range(1,len(nums)):
+            if nums[fast]!=nums[slow]:
+                slow+=1
+                nums[slow]=nums[fast]
+        return slow+1
+
+        
+                
+
+
+
+       
 
         
         
