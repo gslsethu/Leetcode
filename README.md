@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gslsethu/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gslsethu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gslsethu/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gslsethu/Leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
