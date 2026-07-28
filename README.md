@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gslsethu/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gslsethu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gslsethu/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gslsethu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/gslsethu/Leetcode/tree/master/0260-single-number-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gslsethu/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gslsethu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gslsethu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
