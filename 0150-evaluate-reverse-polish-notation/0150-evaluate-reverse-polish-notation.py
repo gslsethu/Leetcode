@@ -1,5 +1,5 @@
-class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+class Solution(object):
+    def evalRPN(self, tokens):
         stack=[]
         for token in tokens:
             if token not in "+-*/":
@@ -14,6 +14,8 @@ class Solution:
                 elif token=="*":
                     stack.append(a*b)
                 else:
-                    stack.append(int(a/b))
+                    stack.append(int(float(a)/b))
         return stack[-1]
+        
+        
         
