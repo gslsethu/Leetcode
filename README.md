@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gslsethu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gslsethu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/gslsethu/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/gslsethu/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gslsethu/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gslsethu/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/gslsethu/Leetcode/tree/master/0412-fizz-buzz) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gslsethu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
