@@ -251,17 +251,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1192-critical-connections-in-a-network](https://github.com/gslsethu/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Simulation
 |  |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
