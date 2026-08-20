@@ -18,8 +18,9 @@ class Solution(object):
             l.append(root.val)
             inorder(root.right)
         inorder(root)
-        for i in range(1,len(l)):
-            if l[i]<=l[i-1]:
-                return False
-        return True
+        temp=list(set(l))
+        
+        if l==sorted(temp):
+            return True
+        return False
         
