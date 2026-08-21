@@ -13,7 +13,7 @@ class Solution(object):
         res=[]
         while queue:
             level=[]
-            for i in range(len(queue)):
+            for _ in range(len(queue)):
                 node=queue.popleft()
                 level.append(node.val)
                 if node.left:
