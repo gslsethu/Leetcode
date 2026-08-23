@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/gslsethu/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/gslsethu/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/gslsethu/Leetcode/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/gslsethu/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3554-find-category-recommendation-pairs](https://github.com/gslsethu/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## Heap (Priority Queue)
 |  |
