@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/gslsethu/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/gslsethu/Leetcode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/gslsethu/Leetcode/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/gslsethu/Leetcode/tree/master/0550-game-play-analysis-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
