@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/gslsethu/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/gslsethu/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/gslsethu/Leetcode/tree/master/1280-students-and-examinations) |
+| [3554-find-category-recommendation-pairs](https://github.com/gslsethu/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
