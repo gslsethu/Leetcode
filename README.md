@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/gslsethu/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/gslsethu/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/gslsethu/Leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/gslsethu/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [3554-find-category-recommendation-pairs](https://github.com/gslsethu/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## Heap (Priority Queue)
 |  |
