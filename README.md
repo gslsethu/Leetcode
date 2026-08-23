@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/gslsethu/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/gslsethu/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/gslsethu/Leetcode/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/gslsethu/Leetcode/tree/master/1934-confirmation-rate) |
 | [3554-find-category-recommendation-pairs](https://github.com/gslsethu/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## Heap (Priority Queue)
 |  |
