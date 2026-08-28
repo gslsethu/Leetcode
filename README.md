@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gslsethu/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gslsethu/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gslsethu/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/gslsethu/Leetcode/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/gslsethu/Leetcode/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/gslsethu/Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -426,10 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gslsethu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gslsethu/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/gslsethu/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gslsethu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/gslsethu/Leetcode/tree/master/0547-number-of-provinces) |
 | [1192-critical-connections-in-a-network](https://github.com/gslsethu/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gslsethu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Biconnected Component
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gslsethu/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gslsethu/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gslsethu/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/gslsethu/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gslsethu/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gslsethu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
