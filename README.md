@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gslsethu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gslsethu/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gslsethu/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1854-maximum-population-year](https://github.com/gslsethu/Leetcode/tree/master/1854-maximum-population-year) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -473,10 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gslsethu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/gslsethu/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1854-maximum-population-year](https://github.com/gslsethu/Leetcode/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gslsethu/Leetcode/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/gslsethu/Leetcode/tree/master/1854-maximum-population-year) |
 ## Bracket Sequences
 |  |
 | ------- |
