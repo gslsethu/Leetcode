@@ -1,14 +1,19 @@
-class Solution(object):
-    def singleNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        
-        ans=[]
-        
-        for i in nums:
-            if nums.count(i)==1:
-                 ans.append(i)
-        return ans
+class Solution:
+    def singleNumber(self, nums: List[int]) -> List[int]:
+        xor = 0
 
+        for x in nums:
+            xor ^= x
+
+        bit = xor & -xor
+
+        a = b = 0
+
+        for x in nums:
+            if x & bit:
+                a ^= x
+            else:
+                b ^= x
+
+        return [a, b]
+        
