@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gslsethu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/gslsethu/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/gslsethu/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gslsethu/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/gslsethu/Leetcode/tree/master/0509-fibonacci-number) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gslsethu/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/gslsethu/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/gslsethu/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/gslsethu/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gslsethu/Leetcode/tree/master/0344-reverse-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/gslsethu/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/gslsethu/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Number Theory
 |  |
 | ------- |
