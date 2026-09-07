@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/gslsethu/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gslsethu/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gslsethu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gslsethu/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gslsethu/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gslsethu/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/gslsethu/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gslsethu/Leetcode/tree/master/0113-path-sum-ii) |
 ## Number Theory
 |  |
