@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/gslsethu/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gslsethu/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gslsethu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gslsethu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/gslsethu/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/gslsethu/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/gslsethu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/gslsethu/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gslsethu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/gslsethu/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gslsethu/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gslsethu/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/gslsethu/Leetcode/tree/master/0113-path-sum-ii) |
 ## Number Theory
 |  |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gslsethu/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/gslsethu/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/gslsethu/Leetcode/tree/master/0733-flood-fill) |
