@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gslsethu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gslsethu/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gslsethu/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gslsethu/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/gslsethu/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gslsethu/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gslsethu/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gslsethu/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gslsethu/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gslsethu/Leetcode/tree/master/0148-sort-list) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/gslsethu/Leetcode/tree/master/0455-assign-cookies) |
 ## Knapsack Problem
 |  |
@@ -640,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/gslsethu/Leetcode/tree/master/1025-divisor-game) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
