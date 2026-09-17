@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gslsethu/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/gslsethu/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/gslsethu/Leetcode/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/gslsethu/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gslsethu/Leetcode/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/gslsethu/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gslsethu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/gslsethu/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/gslsethu/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
