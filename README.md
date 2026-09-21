@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/gslsethu/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/gslsethu/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/gslsethu/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gslsethu/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gslsethu/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/gslsethu/Leetcode/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/gslsethu/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gslsethu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gslsethu/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gslsethu/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/gslsethu/Leetcode/tree/master/0687-longest-univalue-path) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -667,4 +671,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gslsethu/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/gslsethu/Leetcode/tree/master/0337-house-robber-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gslsethu/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
