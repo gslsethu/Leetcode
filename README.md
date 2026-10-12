@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gslsethu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gslsethu/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/gslsethu/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/gslsethu/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/gslsethu/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gslsethu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gslsethu/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gslsethu/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gslsethu/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/gslsethu/Leetcode/tree/master/0412-fizz-buzz) |
+| [0763-partition-labels](https://github.com/gslsethu/Leetcode/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/gslsethu/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gslsethu/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gslsethu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gslsethu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gslsethu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0763-partition-labels](https://github.com/gslsethu/Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/gslsethu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gslsethu/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/gslsethu/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/gslsethu/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/gslsethu/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/gslsethu/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/gslsethu/Leetcode/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
