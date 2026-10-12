@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/gslsethu/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/gslsethu/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gslsethu/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/gslsethu/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gslsethu/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gslsethu/Leetcode/tree/master/0075-sort-colors) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gslsethu/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gslsethu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gslsethu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gslsethu/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/gslsethu/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/gslsethu/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gslsethu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gslsethu/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/gslsethu/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/gslsethu/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/gslsethu/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/gslsethu/Leetcode/tree/master/0410-split-array-largest-sum) |
