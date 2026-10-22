@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gslsethu/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/gslsethu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/gslsethu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/gslsethu/Leetcode/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/gslsethu/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gslsethu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gslsethu/Leetcode/tree/master/0283-move-zeroes) |
